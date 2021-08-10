@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = frontend-https://github.com/TheDevinator/farm-stack-tut.git
+[submodule "backend"]
+	path = backend
+	url = backend-https://github.com/TheDevinator/farm-stack-tut.git
